@@ -47,7 +47,7 @@ Additional cleaning steps included removing records with missing coordinates, co
 
 ### 1. Most Wells Are Orphaned
 The majority of wells in the dataset are classified as **Orphaned** — meaning no operator is responsible for plugging or remediating them. Only a small fraction have been properly **Plugged**.
-![Well Status Distribution](https://github.com/FGomad/OrphanedWellsUS_Analysis/blob/main/Orphaned%20Wells%20Project/figures/Distribution%20of%20Well%20Status.jpg)
+![Well Status Distribution](https://github.com/FGomad/OrphanedWellsUS_Analysis/blob/main/Orphaned%20Well%20Project/Figures/distribution%20of%20doc%20orphan%20well%20status.png)
 
 ### 2. Hotspots in Appalachia and Texas
 The geospatial map reveals **dense clusters** of orphaned wells in the **Appalachian Basin** (Pennsylvania, West Virginia, Ohio) and across **Texas**. These regions reflect a long history of oil and gas drilling and represent high-priority zones for environmental remediation.
