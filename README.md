@@ -60,7 +60,6 @@ The data shows a significant gap between the number of orphaned wells and the nu
 ### 4. Estimated Plugging Cost by State
 The cost of plugging orphaned wells varies significantly across states. This visualization highlights the estimated financial burden each state faces, reinforcing the need for targeted federal funding and prioritized remediation efforts.
 ![Cost Estimation by State](https://github.com/FGomad/OrphanedWellsUS_Analysis/blob/main/Orphaned%20Well%20Project/Figures/cost_estimation_by_state.png)
----
 
 ## Tech Stack
 
