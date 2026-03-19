@@ -51,12 +51,15 @@ The majority of wells in the dataset are classified as **Orphaned** — meaning 
 
 ### 2. Hotspots in Appalachia and Texas
 The geospatial map reveals **dense clusters** of orphaned wells in the **Appalachian Basin** (Pennsylvania, West Virginia, Ohio) and across **Texas**. These regions reflect a long history of oil and gas drilling and represent high-priority zones for environmental remediation.
-
-
+![Geospatial Map](https://github.com/FGomad/OrphanedWellsUS_Analysis/blob/main/Orphaned%20Well%20Project/Figures/geospatial_distribution.png)
 
 ### 3. The Cleanup Gap
 The data shows a significant gap between the number of orphaned wells and the number that have been plugged, highlighting the scale of the challenge facing regulators and communities.
+![Orphaned vs Abandoned Ratio](https://github.com/FGomad/OrphanedWellsUS_Analysis/blob/main/Orphaned%20Well%20Project/Figures/orphaned_vs_abandoned_ratio.png)
 
+### 4. Estimated Plugging Cost by State
+The cost of plugging orphaned wells varies significantly across states. This visualization highlights the estimated financial burden each state faces, reinforcing the need for targeted federal funding and prioritized remediation efforts.
+![Cost Estimation by State](https://github.com/FGomad/OrphanedWellsUS_Analysis/blob/main/Orphaned%20Well%20Project/Figures/cost_estimation_by_state.png)
 ---
 
 ## Tech Stack
