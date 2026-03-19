@@ -8,7 +8,7 @@ Exploring the environmental burden of ~100,000 abandoned oil & gas wells across 
 
 Orphaned wells are oil and gas wells abandoned without proper closure, where no legally responsible operator can be found. Often drilled decades ago, these wells were left behind by companies that went bankrupt or ceased operations. They pose serious risks including methane leaks and groundwater contamination, public safety hazards from unstable well sites, and a growing financial burden on state and federal agencies responsible for cleanup.
 
-This project uses real data from the **U.S. Environmental Protection Agency (EPA)** to clean, analyze, and visualize orphaned well records — making the scale of this problem visible and accessible.
+This project uses real data from the **U.S. Environmental Protection Agency (EPA)** to clean, analyze, and visualize orphaned well records - making the scale of this problem visible and accessible.
 
 ---
 
